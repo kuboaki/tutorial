@@ -1,0 +1,17 @@
+Title         : ようこそ
+Author        : 久保秋　真
+Logo          : ああ
+
+[TITLE]
+
+# Madoko 
+
+Madoko は、シンプルさとテキスト可読性にこだわった、本格的な文章をすばやく書くためのマークダウン処理系です。
+
+* [リファレンスマニュアル]を読む
+* マークダウンの使い方を調べるには、右上のツールボックスを見る
+* `Alt-Q` で現在の段落を再フォーマットする
+
+楽しんでね！
+
+[リファレンスマニュアル]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko refrence manual"
