@@ -1,0 +1,3 @@
+*.pptx diff=openxml
+*.docx diff=openxml
+*.xlsx diff=openxml
