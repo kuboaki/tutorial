@@ -1,8 +1,17 @@
 = テーブルのテスト
 
+コード中に書く。
+
 [%header,format=csv]
 |===
 Artist,Track,Genre
 Baauer,Harlem Shake,Hip Hop
 The Lumineers,Ho Hey,Folk Rock
 |===
+
+CSVから読む。
+
+[%header,format=csv]
+|===
+include::tracks.csv[]
+|==
